@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"hashes": {
+		"dependencies": [
+			"macOS-10.12-SDK": "QmdNLMCUCw8hBTqinkc7ke88WgRb7M2mWQbccQPDsyaub8"
+		],
+		"distribution": {
+			"interfaces": {
+				"windows": {
+					"Vircadia-Alpha-2020.2.0-Asteria": "QmeVW2ZKqoMmMeE31fcstQVZ6BDaw7dw8PKBZ7DRKeVihb",
+					"Vircadia-Alpha-2020.2.1-Asteria": "Qmf49S68f7t5VHs6Ga9zcdzYbWL5PaSS8uUkUAmMn8uF1p",
+					"Vircadia-Alpha-2020.2.2-Asteria": "QmNNixGj4Kvyy4nRCEmmm74TAy3Cn2PvvF5yNcb5gpxLWQ",
+					"Vircadia-Alpha-2020.2.3-Asteria": "QmcuZdy5HYXmQ5LrWNgNVQMx9HTsUxvz3mH9rygVXodHrB",
+					"Vircadia-Alpha-2020.2.4-Asteria": "Qmb2SV52t4DvDk5VTQLWAckHbbXVzfgPXKoEZia6pzGaQg",
+					"Vircadia-Alpha-2020.2.5-Asteria": "QmNhR4wSuxFnuKNQJm9ZzT5rCqRKtFoZZ5CH1jm4QWrnSs",
+					"Vircadia-2021.1.0-Eos": "QmUYFhgDzBgRzLcnQ81drdCEYB75y8zjq1KRc7DzjoaYEz",
+					"Vircadia-2021.1.1-Eos": "QmPVpbof78nUX8qDbm5spNZUDviouKpsFZRdwTkK76wA3o",
+					"Vircadia-2021.1.2-Eos": "QmS79rhuc9aAxPrpUXc6CUFuoiGHVQPLe3HpR3xCfTw7aG",
+					"Vircadia-2021.1.3-Eos": "QmdYLUakeiFxKzKeKKWLfvzwizAppL8QC9BYbYEPAAKuTE",
+				}
+			}
+		}
+	}
+}
