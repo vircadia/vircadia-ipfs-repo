@@ -1,5 +1,5 @@
 {
-	"version": 1.3,
+	"version": 1.4,
 	"hashes": {
 		"dependencies": [
 			"openssl-1.1.0g_armv8.tgz": "QmaEg57qXbqs9vdpET6KJ4PGAovvi6qyWZU3jiAAKTS7zc",
@@ -48,6 +48,22 @@
 			"NSIS-hifi-plugins-1.0.tgz": "Qma5P9GptDWrGcw1PrVkYgUoSyWidVgStGPFUVMoZEGiSn",
 			"qt5-install-5.15.2-ubuntu-18.04-aarch64_test.tar.xz": "Qmf2Zu4qQpRbt6SBN5jQQ11Qmm4uZvr7ajfUYY6DRpJF3s",
 			"qt5-install-5.15.2-debian-10-aarch64.tar.xz": "QmaKvFfX3NAfB7oSnf366pwZsR5Vf143hAyGDb8w6fQYuL",
+			"breakpad.tgz": "QmSTohJ6X1L5MNyPs98izFRKzm1tt3sLPytoJVNo9ehz6B",
+			"bullet-2.88_armv8-libcpp.tgz": "QmdRdQWXS4oxg5cS7x1BMnovfivJEkHEkrZ26Zuy7Zxy2m",
+			"codecSDK-android_armv8-2.0.zip": "QmWP6AZizmuDkMboFW78qxAWEhQZYriXP5tg28iCZkFCxL",
+			"draco_armv8-libcpp.tgz": "QmQuA9gUT7DUxPPjEb95FkvkYZ3B4by5r9H3uGv8iU8ig6",
+			"etc2comp-patched-armv8-libcpp.tgz": "QmZSCzQsTs7EsdoskNZDz9coywhzbWV1d8PP192rKCBVte",
+			"glad_armv8-libcpp.zip": "QmVpvmDg9MEPudkfKTDJfPZg4ckq1jcUQzhZ1YyBiNs2TR",
+			"gvrsdk_v1.101.0.tgz": "QmbPZqU7dKoQEARUbF6ztcSyPWN5LW6VPzfATjhL6x2aN3",
+			"nvtt_armv8-libcpp.zip": "QmcxwNX5HPVqJ9Xbqyk7vWe9i2skm2kPp7gd9MMHwJ7y8T",
+			"ovr_platform_sdk_23.0.0.zip": "QmW2CamwqPd3mAz5KtCsbnoFz17pJw8vCyvLXmRa7m7WZ4",
+			"ovr_sdk_mobile_1.37.0.zip": "Qmek4kWXEMiGx7vyn5ntLAKtB7uVaAaGUbYcRown1b9KLj",
+			"polyvox_armv8-libcpp.tgz": "QmXHgaQ3wo3GHSGbxPQo26twARQUtE9uQpDJqW5HxsBm9A",
+			"qt-5.11.1_linux_armv8-libcpp_openssl_patched.tgz": "Qma2EUEymBG8KB1DGxFaD8jZZD8VC4CtpVzbSsg3CQBKYT",
+			"qt-5.11.1_osx_armv8-libcpp_openssl_patched.tgz": "QmesL4YUQi1hw3LYx8FWKm43RJ9K9gmC7wanYaw9rby245",
+			"qt-5.11.1_win_armv8-libcpp_openssl_patched.tgz": "QmPXk7uJnY7tFH1gBFPiFmnWQmvMq57Ltpg9PcbfhSk77K",
+			"tbb-2018_U1_armv8_libcpp.tgz": "QmWB2BAitm8N2iECVYg56LZAVs8SqvGRzDkrdY4wGxxk13",
+			"webrtc-20190626-android.tar.gz": "QmcwRmgYmfyFyQ2Y8bhAw8aH5BQ63R9HBrNiRAUVWroEoE",
 			"macOS-10.12-SDK": "QmTDLEYdo616YgZKSYC2mySSw8EKQWTz7CH8UyMupMBpzK"
 		],
 		"distribution": {
