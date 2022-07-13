@@ -64,6 +64,11 @@
 			"qt-5.11.1_win_armv8-libcpp_openssl_patched.tgz": "QmPXk7uJnY7tFH1gBFPiFmnWQmvMq57Ltpg9PcbfhSk77K",
 			"tbb-2018_U1_armv8_libcpp.tgz": "QmWB2BAitm8N2iECVYg56LZAVs8SqvGRzDkrdY4wGxxk13",
 			"webrtc-20190626-android.tar.gz": "QmcwRmgYmfyFyQ2Y8bhAw8aH5BQ63R9HBrNiRAUVWroEoE",
+			"nlohmann-json-LICENSE.MIT": "QmRSAu3zMMfoZAdpU8nhN5hnJMHFBsP5X3vxGGgTwUfiXD",
+			"nlohmann-json-json.hpp": "QmRe7unCwvNjzmt7CExnphS13Ltnk8WBSmNqHmS3VTmBFs",
+			"openssl-1.0.2s.tar.gz": "QmXRKtBhXJbYJm2FhrVobYo7sboU5V5C8xXMc3ryNs6z8F",
+			"openssl-1.1.1h.tar.gz": "QmYks763hXmjvMooXx3y2gi75RVGB3KbbcCFqPmouu9gWk",
+			"zlib-1.2.11.tar.gz": "QmVUxkKQnLaiWK7nSwMFQ97LYSeGuwtRFjhw9ooMpJd5Gr",
 			"macOS-10.12-SDK": "QmTDLEYdo616YgZKSYC2mySSw8EKQWTz7CH8UyMupMBpzK"
 		],
 		"distribution": {
